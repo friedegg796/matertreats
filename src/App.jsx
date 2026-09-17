@@ -27,7 +27,7 @@ function App() {
             <use href="/icons.svg#social-icon"></use>
           </svg>
           <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
+          <p>Learn more about this place</p>
           <ul>
             <li>
               <a href="https://github.com/friedegg796" target="_blank">
@@ -42,15 +42,15 @@ function App() {
               </a>
             </li>
             <li>
-              <a href="https://chat.vite.dev/" target="_blank">
+              <a href="https://cash.app/$HasnainAlahi" target="_blank">
                 <svg
                   className="button-icon"
                   role="presentation"
                   aria-hidden="true"
                 >
-                  <use href="/icons.svg#discord-icon"></use>
+                  <use href=""></use>
                 </svg>
-                Discord
+                Cash app
               </a>
             </li>
             <li>
@@ -81,7 +81,6 @@ function App() {
         </div>
       </section>
 
-      <div className="ticks"></div>
       <section id="spacer"></section>
     </>
   )

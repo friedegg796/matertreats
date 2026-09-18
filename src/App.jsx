@@ -1,5 +1,5 @@
 import { useState } from 'react'
-
+import Footer from './components/Footer.jsx'
 import './App.css'
 
 function App() {
@@ -14,6 +14,13 @@ function App() {
           <h1>Matertreats</h1>
           <p>
             Heavy WIP
+
+            <br/>
+
+           Was going to be the website for my shop at Mater Brighton Lakes Academy.
+
+           Was told I can't make the shop, but I still wanna make the website
+
           </p>
         </div>
 
@@ -30,18 +37,6 @@ function App() {
           <p>Learn more about this place</p>
           <ul>
             <li>
-              <a href="https://github.com/friedegg796" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
               <a href="https://cash.app/$HasnainAlahi" target="_blank">
                 <svg
                   className="button-icon"
@@ -53,35 +48,15 @@ function App() {
                 Cash app
               </a>
             </li>
-            <li>
-              <a href="https://www.instagram.com/awanderingmuslim/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                Instagram
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
+
           </ul>
         </div>
       </section>
 
       <section id="spacer"></section>
+
+     <Footer/>
+
     </>
   )
 }

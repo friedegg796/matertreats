@@ -32,9 +32,8 @@ function App() {
           <svg className="icon" role="presentation" aria-hidden="true">
             <use href="/icons.svg#social-icon"></use>
           </svg>
-          <h2>Connect with us</h2>
-          <p>Learn more about this place</p>
-          <ul>
+          <h2>WIP</h2>
+              <ul>
             <li>
               <a href="https://cash.app/$HasnainAlahi" target="_blank">
                 <svg

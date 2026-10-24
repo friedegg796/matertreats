@@ -17,7 +17,6 @@ const Footer = () => {
             <a href="https://github.com/friedegg796" target="_blank" rel="noopener noreferrer"><img src="./github.svg"  width='100px'/></a>
             <a href="https://www.linkedin.com/in/hasnain-a-6481a0342" target="_blank" rel="noopener noreferrer"><img src="./linkedin.png" width='100px' /></a>
             <a href="mailto:hasnainalahiwork@gmail.com"><img src="./gmail.svg" width='100px'/></a>
-            <a href="https://discord.gg/RNP5cqhhRB"><img src="./discord.svg" width='125px' alt="Discord"/></a>
             <a href="https://www.instagram.com/awanderingmuslim/"><img src="./instagram.svg" width='125px' alt="Instagram"/></a>
             <a href="https://cash.app/$HasnainAlahi"><img src="./cashapp.svg" width='125px' alt="Cashapp"/></a>
           </div>
